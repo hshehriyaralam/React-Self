@@ -1,0 +1,22 @@
+React HTML main Inject Kaise ho raha ha?
+
+1) React end of the day Javascript  hi hai , Javascript ki library hai majority of work React main ho rha hai but kch na kch work Javascript se bh Ho raha hain  , Javascript kch work krne ke lye HTML main inject hona hi parhta hai wo inject kis tarah se hoga ye foundation understand krna zaroori hai 
+
+2) Package-lock-json me stable dependancies lock ho jati hain
+
+3) Mainfiest.JSON ye "Create React App " jab react project banega usme add hoga ye vite ke sath file add nh hota ,
+mobile devices ke lye use hoti hain Ap apne Web application ko mobile main open karte hain meta Tags ko manifiest file se dekh sakte hain 
+
+4) Web ke DOM ko manuplate krne ley React and React-DOM hi kam ate hain 
+
+5) "React" Core foundation  library hai 
+6) "React-DOM" "React" ka implemantation hai Web  pr 
+7) "React-Native" "React" ka implemantation hai mobile pr 
+8) React Khud ka DOM bh banata hai aur isse Virtual DOM Kehte hain
+
+9) "Vite" se ham project bana raha hain But so "Vite" ka ye Config hai ka Koi bh component bane uski file ka nam JSX main ho 
+
+10)  component ka Name Capatalized   hona chaiye otherwsie error ayega 
+
+ 11) React ke component main Multiple Tag Allow nh h ... incase     "<> </>" fragment Tag use krna hoga 
+
