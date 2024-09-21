@@ -2,4 +2,4 @@
 
 2)  component ka Name Capatalized   hona chaiye otherwsie error ayega 
 
-3) React ke component main Multiple Tag Allow nh h ... incase     "<> </>" fragment Tag use krna hoga 
+3) React ke component main Multiple Tag Allow nh h ... incase"<> </>" fragment Tag use krna hoga 

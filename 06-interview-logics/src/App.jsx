@@ -20,9 +20,9 @@ let removeValue = () => {
   return (
     <>
       <h1>Counter {count} </h1>
-      <button onClick={addValue} >Add Value {count}</button>
+      <button onClick={addValue}>Add Value {count}</button>
       <p>This Counter {count}</p>
-      <button onClick={removeValue} >Remove Value {count}</button>
+      <button onClick={removeValue}>Remove Value {count}</button>
     </>
   )
 }

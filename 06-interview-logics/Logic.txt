@@ -1,10 +1,10 @@
-add value ke Function main 4 martaba Value add kara de to ?
+add value ke Function main 4 martaba Value add krna hai to  ?
   setcount(count + 1)
   setcount(count + 1)
   setcount(count + 1)
   setcount(count + 1)
 
-  4 martaba add karne ke ba wajood ye ek hi martaba Render Ho raha hai
+  4 martaba add karne ke bawajood ye ek hi martaba Render Ho raha hai
   1 click 1 hi value increase ho rahi ha 
 
 
@@ -13,7 +13,7 @@ add value ke Function main 4 martaba Value add kara de to ?
   ye logic setcount ki nh becuase UseState ki hai kyunke UseState jo bh value update krta hai UI and Variable Main WO batches main Karta 
   Hai
 
-    setcount(count + 1)
+  setcount(count + 1)
   setcount(count + 1)
   setcount(count + 1)
   setcount(count + 1)
