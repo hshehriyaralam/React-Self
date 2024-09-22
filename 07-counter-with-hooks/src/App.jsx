@@ -11,11 +11,11 @@ function App() {
     let IncreaseRange = RangCount + 1;
     setRangeCount(IncreaseRange)
     
+    
   }
   let RangeDec = () => {
     let DecreaseRange = RangCount - 1;
     setRangeCount(DecreaseRange)
-    
     
   }
   let count = 5
