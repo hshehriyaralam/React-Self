@@ -1,0 +1,14 @@
+ 
+
+ ** Conditional Rendering **
+ Conditional Rendering allows us to "dynamically display" different UI Components or content bases on specific conditions . This  enables us to create more interactive and responsive user Experience 
+
+
+ ** && Condition **
+ we can apply condition with && Operator
+ Example :
+{item.length > 3 && <h2>You have {item.length} items in your Card</h2>}
+items length greater than 3 so h2 render otherwise not render 
+
+
+

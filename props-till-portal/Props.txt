@@ -1,0 +1,5 @@
+Props / Properties are arguemnets passed into React components .
+Props allows us to pass data from parent component to child component.
+
+
+Props are passed to component via HTML attributes. 
