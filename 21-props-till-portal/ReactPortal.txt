@@ -1,0 +1,2 @@
+** What is React Portal **
+Portal is a feature that allows you to render a child component into a DOM node that exist outside the hierarchy of the parent component. This can be useful for scenarios like modals , tooltips, or dropdown, where you want break out of the usual parent-child structure and render ina diffrenet part of the DOM.

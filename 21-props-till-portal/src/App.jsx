@@ -7,6 +7,24 @@ import ConditionCard from "./ConditionRendering/ConditionCard"
 import Weather from "./ConditionRendering/Weather"
 import UserStatus from "./ConditionRendering/UserStatus"
 import Greeting from "./ConditionRendering/Greeting"
+import StyleCArd from "./Styles/StyleCArd"
+import ProfileCard from "./Styles/ProfileCard"
+import IconComponents from "./Styles/IconComponents"
+import OnClickFunction from "./Events/OnClick"
+import OnCopyFunction from "./Events/OnCopy"
+import OnMove from "./Events/OnMove"
+import UseStateNumber from "./UseState/UseStateNumber"
+import UseStateArray from "./UseState/UseStateArray"
+import USeStateObject from "./UseState/USeStateObject"
+import ArrayOfObjects from "./UseState/ArrayOfObjects"
+import MainComponent from "./UseState/mainComponent"
+import ExampleOne from "./UseState/ExampleOne"
+import ExampleTwo from "./UseState/ExampleTwo"
+import ExampleThree from "./UseState/ExampleThree"
+import Counter from "./PracticeUseState/Counter"
+import TodoLists from "./PracticeUseState/TodoLists"
+import Profile from "./PracticeUseState/Profile"
+import ShopingLists from "./PracticeUseState/ShopingLists"
 function App() {
   return (
     <>
@@ -29,8 +47,27 @@ function App() {
       {/* <Password />
       <ConditionCard />
       <Weather weather={26} /> */}
-      <UserStatus admin={true} />
-      <Greeting Morning={false} />
+      {/* <UserStatus admin={true} /> */}
+      {/* <Greeting Morning={false} /> */}
+      {/* <StyleCArd />
+      <ProfileCard />
+      <IconComponents /> */}
+      {/* <OnClickFunction /> */}
+      {/* <OnCopyFunction /> */}
+      {/* <OnMove /> */}
+      {/* <UseStateNumber /> */}
+      {/* <UseStateArray /> */}
+      {/* <USeStateObject /> */}
+      {/* <ArrayOfObjects /> */}
+      {/* <MainComponent /> */}
+      {/* <ExampleOne /> */}
+      {/* <ExampleTwo /> */}
+      {/* <ExampleThree /> */}
+      {/* <Counter /> */}
+      {/* <Profile   /> */}
+      {/* <ShopingLists /> */}
+      {/* <TodoLists /> */}
+
     </>
   )
 }
