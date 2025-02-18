@@ -10,7 +10,7 @@ function UseStateArray() {
 
     const Remove = () => setFriends(friends.filter( (f) => f === "Ali"))
 
-    const Update = () => setFriends(friends.map((f) => f=== "Daniyal" ? "Daniyal Israel" : f ))
+    const Update = () => setFriends(friends.map((f) => f === "Daniyal" ? "Daniyal Israel" : f ))
   return (
     <div className='text-2xl text-center my-10'>
       <h1>useState with Array</h1>

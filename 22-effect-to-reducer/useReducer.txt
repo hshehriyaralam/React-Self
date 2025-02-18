@@ -1,0 +1,13 @@
+** Use Reducer **
+
+useReducer is a hook that is similar to useState , but it is designed for "more complex" state objects or state transitions that ivolves multiple sub-values. It allows you to manage state in a functional, Immatuable way.
+
+
+ const [state, dispatch] = useReducer(reducer, initialState)
+   
+
+   state : The Current state  Value
+   dispatch : A function you call to send actions to the reducer
+   reducer : This is a function that describes how the state should change based on actions.
+
+   

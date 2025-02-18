@@ -1,0 +1,27 @@
+** UseEffect **
+
+UseEffect Hook allows you to perform 'side Effects' in your components. Some example of side effects are: fetching data, directly updating the DOM etc. 
+
+* UseEffect  without Dependency array on every single render 
+
+** useEffect call 2 time in Browser re-load becuase <App> components wrap-up in Strick Moode
+** without Dependency array useEfect render only one time.
+** Dependency pass with empty array only render browser shuffle.
+** Do not allow wrp-up Hooks in Conditional Rendering.
+
+-----------------x-------------x-----------x-----------x----------x-----------x-------------x--
+    if(value > 0){
+        useEffect(() => {
+            console.log("Call useEffect");
+            console.log(`value is ${value} `);
+        },[value])
+    }
+
+    Allows this syntaxt 
+        useEffect(() => {
+            if(value > 0){
+                console.log("Call useEffect");
+                console.log(`value is ${value} `);
+            }
+        },[value])
+--------------x-----------x--------------x----------x-----------------x----------------x--------       

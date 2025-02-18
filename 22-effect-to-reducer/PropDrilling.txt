@@ -1,0 +1,4 @@
+** PropDrilling **
+Prop Drilling React main aik process hai jisme parent component kisi data ya function ko multiple child components ke through deeply nested component tak props ke zariye pass karta hai, chahe beech ke components us data ko use karain ya nahi. Yeh approach bari applications main code readability aur maintainability ko mushkil bana sakti hai. Is maslay ko hal karne ke liye Context API ya state management libraries ka use kiya jata hai.
+
+
