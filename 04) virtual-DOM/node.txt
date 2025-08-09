@@ -1,0 +1,25 @@
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
+* createRoot : behined the scene kaise kam karta hai ?
+* createRoot behined the scene DOM like Structure Create karta hai
+* Jaise browser ke pass DOM hota hai waise hi createRoot DOM Create karta hai 
+* main DOM ko and Apne DOM compare karta hia and sirf wohi jezo ko Update karta hai Actually 
+main jo UI main Update Hui hai 
+
+* Web layot main Javascript inject hogi isko Hydration kehte hain 
+
+** React Fibre Architecture **
+Virtual DOM Ko Update karne wali hai Fibre 
+React ka Fibre Core Alghorithum hai
+
+
+** Reconcilation **
+Virtual DOM and Browser Ke DOM main Knse Part and Knsa Update Ko Change hOna chia isko Kehte hainn Reconcilation
+
+
+** Update **
+A change in the data used to render a React App . Usually the result of `setState` Eventually results in a re-render 
+ 

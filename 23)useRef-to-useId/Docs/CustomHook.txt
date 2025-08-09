@@ -1,0 +1,6 @@
+** What is Custom Hook**
+
+Custom Hook are JavaScript functions that start with the prefix use(useFetch , useForm) and can call other hooks within them. They allow you to "extract and reuse logic" that involves state or side effects, making your components more readable and maintainbale .
+
+
+Custom Hook ek re-usable function hoti hai jo React ke built-in hooks ka istemal karke kisi bhi repeated logic ko ek jagah rakhne ke liye banai jati hai. Yeh hooks "use" se start hote hain, jaise useFetch, useAuth, etc.

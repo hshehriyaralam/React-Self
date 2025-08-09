@@ -1,0 +1,13 @@
+main 2 card add kr sakte hun But mujhe 2ono ki heading diffrenet chia iska solution  hai "props" se 
+
+
+**  Props **
+Components Function ke parameters value ko props Kehte 
+
+* props Khali hai
+Components ko load krte waqt jo bh value denge wo props main ayenge 
+
+* Props main Array ya Object Pass Nh Kar sakte But Object ya Array return scope se bahir declare kar ke call kr sakte hain 
+
+* Props main Khud hi De-structuring kr denge Easy value Ko render krne  ke lye 
+ 

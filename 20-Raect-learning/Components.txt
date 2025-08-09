@@ -1,0 +1,21 @@
+**** Components ***
+Components are independent & reusable bits of code. They serve the same purpose as JavaScript Functions, But work is isolation and return HTML .
+
+** JSX **
+JSX allows us to write HTML in React.
+JSX makes it easier to write & add HTML in React.
+
+
+*** JSX Rules ***
+* JSX must return a single parent Element.
+* JSX elements must be properly closed.
+* JSX attribute are writen using camelCase.
+
+*** Expression in JSX ***
+With JSX you can write Expression inside curly braces. The Expression can be a React variable , or properly, or any other valid "JavaScript Expression". JSX will execute the Expression and return  the result . {4 + 4} = 8
+
+*** Lists ***
+In React, you will render lists with some type of loop. The JavaScript map() array method is generally the prefered method. 
+    
+    
+

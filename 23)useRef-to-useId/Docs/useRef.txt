@@ -1,0 +1,5 @@
+** What is UseRef ?
+
+useRef Hook provide a way to access and "interact wit DOM " elements ot to persist values across renders without cuasing a re-render.
+
+

@@ -1,0 +1,40 @@
+What is React ?
+
+* React is a free and open-source JavaScript Library specifically design for building User Interface UI.
+
+*** Open Source ***
+ where is the source code is made available to  the public.
+
+*** Library ***
+Library is the collection of pre-written code  that developer can use to perform a common task or add a specific functiona to their applications.
+
+*** UI ***
+ User Interface is the means through which the user interact with own application.
+
+ * React Developed by facebook 2011 
+ * Use components model 
+ * Build Modular Apps 
+
+
+ *** Components ***
+ A Component is peace of the UI that has it's own login and appearance. A components can be small as a button or Large as active page 
+
+ ************************* React Project Structure ******************************
+ 
+ *** node modules ***
+ modules and packages by which our React JS is depends on 
+
+ **** Public ****
+ where we put all of our assests file 
+
+ *** gitignore ***
+ This is github related file  when we are  pushing our code to github this file allows us to ignore a certain file or folder 
+
+ *** package.json ***
+    This file is the heart of our project it certain metadata about the project such as like project name, version , description , scripts and more importnatly it list the dependencies and their version that your projects needs to run. 
+
+ ***  Package-lock.json ***
+  file is automatically generated and updated when install or modified dependencies.
+
+  
+

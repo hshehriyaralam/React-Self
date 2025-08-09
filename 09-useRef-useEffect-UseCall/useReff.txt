@@ -1,0 +1,22 @@
+UseCall Back : useCallback is a React Hook that lets you cache a function definition between re-renders.
+
+function hai jitna ho sake cache (memory) main rakh lo jab main again use karun jita part memory main hota hai use kr lo 
+
+... useCallback main 2 chexien hoti hai 1 function and dependancies 
+... dependancies array main pass kr dye 
+
+UseEffect : useEffect is a React Hook that lets you synchronize a component with an external system.
+
+....UseEffect : Function ko Re-renders karne ke kam ata hai , 
+..Ye bh function and dependancies array leta hai 
+..function main Re-rendering karenge 
+..and dependancies array main value ya hooks pass krenege is method ya value ke bad Re-render kro 
+
+useRef : useRef is a React Hook that lets you reference a value that’s not needed for rendering.
+
+..useRef : kisi bh cheez ka jab reference lena hota hai jabh useRef Hook Ata hai 
+
+.. useRef ko use krne ke lye use ek variable bnana parhta hai 
+
+.. server side pr window Object nh hota hai 
+   for Exampel : NextJs main window Object nh hOta hai 

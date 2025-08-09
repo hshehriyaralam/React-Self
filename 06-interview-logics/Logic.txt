@@ -1,0 +1,27 @@
+add value ke Function main 4 martaba Value add krna hai to  ?
+  setcount(count + 1)
+  setcount(count + 1)
+  setcount(count + 1)
+  setcount(count + 1)
+
+  4 martaba add karne ke bawajood ye ek hi martaba Render Ho raha hai
+  1 click 1 hi value increase ho rahi ha 
+
+
+
+  iske  lye diffrenet logic ha  
+  ye logic setcount ki nh becuase UseState ki hai kyunke UseState jo bh value update krta hai UI and Variable Main WO batches main Karta 
+  Hai
+
+  setcount(count + 1)
+  setcount(count + 1)
+  setcount(count + 1)
+  setcount(count + 1)
+  ek hi kam Ho raha hai wo dekhe ga Same hi kam hai wo Batches main Bana kr dega 
+
+
+  ** Suppose agar ayesi Situation ho ek Click pr 4xTimes Add Krna hai uske lye diffrenet approach hai 
+    setcount((PrevCount) => {coun + 1})
+    ye call back lete hai "PrevCount" it's mean Previuos count le kr aO and usme 1 plus krdo , Name KCh bh Ho sakte hain 
+    {} Curly Bracket Remove kr denge otherwise return krne parega 
+

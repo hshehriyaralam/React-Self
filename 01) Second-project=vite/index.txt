@@ -1,0 +1,25 @@
+ React javascript Library 
+ React ka documentation bigenner friendly nh h 
+ React ko without frame work use krna hai to "Vite" ya "Parcel" use karenge
+ "Vite " or "Parcal" Bundler hai 
+ "Bundler" means bohat sare javascript ke file ko combine kr ke ek file provide karega 
+ React Core Library  1: React-dom => for website 2: react Native for App
+
+ How to download without vite and parcal 
+ npm => Node package manager 
+ npx => node package executor 
+
+1: create Reack App => Utility => Softawre 
+is software ke through ek naya project bana  sakte hain 
+
+ * Create React App - Bulkey Utility 
+apne sath bohat sare software ayese dete hain jo hamien nh chaia hoti hain 
+ 
+ * But now days recemond kya jata hai "Vite" and "Parcel" 
+YE bh Utilities hain 
+
+
+
+
+
+
